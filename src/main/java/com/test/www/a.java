@@ -12,7 +12,7 @@ import java.util.Date;
 public class a {
 
 	/**
-	 * asdf 
+	 * asdf 没
 	 */
 	public static void main(String[] args) {
 		System.out.println("Holle world");
