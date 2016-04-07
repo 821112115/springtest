@@ -1,4 +1,4 @@
-package com.test.www;
+package com.test.www.test.domain;
 
 /**
  * users表所对应的实体类
