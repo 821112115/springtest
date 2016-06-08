@@ -1,5 +1,6 @@
 package com.test.www.test;
 
+
 public class outer {
     public int num=10;
     public outer() {

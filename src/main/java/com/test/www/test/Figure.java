@@ -1,5 +1,6 @@
 package com.test.www.test;
 
+
 class Figure {
 
 	enum Shape {RECTANGLE,CIRCLE};

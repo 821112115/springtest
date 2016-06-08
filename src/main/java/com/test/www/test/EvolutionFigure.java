@@ -1,5 +1,7 @@
 package com.test.www.test;
 
+
+
 abstract class EvolutionFigure {
 	
 	abstract double area();

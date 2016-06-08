@@ -1,4 +1,5 @@
 package com.test.www.test;
+
 /**
  * 测试BEAN
  * @author dabin

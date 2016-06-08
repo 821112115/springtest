@@ -107,7 +107,7 @@
 		<artifactId>commons-dbcp</artifactId>
 		<version>1.4</version>
 	</dependency>
-	 <!-- mybatis/spring包 -->  
+	 <!-- mybatis/spring整合包 -->  
     <dependency>  
             <groupId>org.mybatis</groupId>  
             <artifactId>mybatis-spring</artifactId>  
